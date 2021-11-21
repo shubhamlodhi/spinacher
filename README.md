@@ -5,7 +5,7 @@
 
 # Spinacher
 <p align="center"> 
-<a href="https://ibb.co/h8Xh8ns"><img src="https://i.ibb.co/nk3ZkVr/in-Progress.png" alt="in-Progress" border="0"></a>
+<a href="https://shubhamlodhi.github.io"><img src="https://i.ibb.co/nk3ZkVr/in-Progress.png" alt="in-Progress" border="0"></a>
 </p>
 
 ## Installation
