@@ -1,5 +1,5 @@
 <p align="center"> 
-   <a href="https://spinacher.com/"><a href="https://ibb.co/nPQF83J"><img src="https://i.ibb.co/bbNkRH9/spinacher-banner-v2.png" alt="spinacher-banner-v2" border="0"></a></a>
+   <a href="https://spinacher.com/"><img src="https://i.ibb.co/bbNkRH9/spinacher-banner-v2.png" alt="spinacher-banner-v2" border="0"></a>
   
 </p>
 
